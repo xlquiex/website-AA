@@ -1,0 +1,52 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    padding: 30px;
+    font-size: 40px;
+}
+
+
+
+a {
+    color: black;
+    text-decoration: none;
+}
+
+.header {
+    background-color: navy;
+    padding: 40px;
+    display: flex;
+}
+
+
+
+
+.header img {
+    width: 100px;
+    height: auto;
+}
+
+.navbar {
+    display: flex;
+    align-items: center;
+    margin-left: auto;
+    gap: 30px;
+}
+
+.navactive  a {
+    color:aliceblue;
+    text-decoration: underline;
+}   
+
+.content  img {
+    margin-top: 10px;
+    width: 500px;
+    height: auto;
+}
+
+.section1 {
+ display: flex;   
+}
+
+.section2 {
+ display: flex;   
+}
